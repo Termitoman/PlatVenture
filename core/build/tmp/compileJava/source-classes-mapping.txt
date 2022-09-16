@@ -1,0 +1,40 @@
+com/mygdx/platventure/PlatVenture.java
+ com.mygdx.platventure.PlatVenture
+com/mygdx/platventure/Niveau.java
+ com.mygdx.platventure.Niveau
+com/mygdx/platventure/EcouteurContacts.java
+ com.mygdx.platventure.EcouteurContacts
+com/mygdx/platventure/EnumDonneesBody.java
+ com.mygdx.platventure.EnumDonneesBody
+com/mygdx/platventure/elements/Personnage.java
+ com.mygdx.platventure.elements.Personnage
+com/mygdx/platventure/elements/plateformes/PlateformeBordDroit.java
+ com.mygdx.platventure.elements.plateformes.PlateformeBordDroit
+com/mygdx/platventure/elements/elementsTraversables/Eau.java
+ com.mygdx.platventure.elements.elementsTraversables.Eau
+com/mygdx/platventure/elements/plateformes/PlateformeBordGauche.java
+ com.mygdx.platventure.elements.plateformes.PlateformeBordGauche
+com/mygdx/platventure/elements/ElementGraphique.java
+ com.mygdx.platventure.elements.ElementGraphique
+com/mygdx/platventure/elements/plateformes/PlateformeCentrale.java
+ com.mygdx.platventure.elements.plateformes.PlateformeCentrale
+com/mygdx/platventure/elements/elementsTraversables/Joyau.java
+ com.mygdx.platventure.elements.elementsTraversables.Joyau
+com/mygdx/platventure/elements/elementsTraversables/Sortie.java
+ com.mygdx.platventure.elements.elementsTraversables.Sortie
+com/mygdx/platventure/elements/Brique.java
+ com.mygdx.platventure.elements.Brique
+com/mygdx/platventure/EcouteurUtilisateur.java
+ com.mygdx.platventure.EcouteurUtilisateur
+com/mygdx/platventure/ecrans/EcranPresentation.java
+ com.mygdx.platventure.ecrans.EcranPresentation
+ com.mygdx.platventure.ecrans.EcranPresentation$1
+com/mygdx/platventure/ecrans/EcranJeu.java
+ com.mygdx.platventure.ecrans.EcranJeu
+com/mygdx/platventure/Monde.java
+ com.mygdx.platventure.Monde
+ com.mygdx.platventure.Monde$1
+ com.mygdx.platventure.Monde$2
+ com.mygdx.platventure.Monde$3
+ com.mygdx.platventure.Monde$4
+ com.mygdx.platventure.Monde$5

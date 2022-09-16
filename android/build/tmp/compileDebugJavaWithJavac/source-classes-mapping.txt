@@ -1,0 +1,4 @@
+com/mygdx/platventure/BuildConfig.java
+ com.mygdx.platventure.BuildConfig
+com/mygdx/platventure/AndroidLauncher.java
+ com.mygdx.platventure.AndroidLauncher
